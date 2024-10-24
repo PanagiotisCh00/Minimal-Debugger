@@ -43,7 +43,5 @@ Bonus Features (Optional)
     Disassemble Current Instruction (disas):
         Command: disas
         Disassembles and prints the current instruction and the next 10 instructions (or until the function ends).
-In this repo is a mini debugger is implemented which i made for the CS 451: Software Analysis course in university of Cyprus.
-Credits
 
 This project was developed as part of the Software Analysis course (EPL451) at the University of Cyprus, under the supervision of Prof. Elias Athanasopoulos.
